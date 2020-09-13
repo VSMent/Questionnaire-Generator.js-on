@@ -2,6 +2,7 @@
   "name": "que_gen_json",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vsment.github.io/Questionnaire.json-Generator",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
